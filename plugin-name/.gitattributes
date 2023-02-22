@@ -7,7 +7,6 @@ docker export-ignore
 tests export-ignore
 README.md export-ignore
 DEVELOPER.md export-ignore
-package.json export-ignore
 phpunit.xml.dist export-ignore
 .babelrc export-ignore
 .eslintrc export-ignore
@@ -15,12 +14,7 @@ phpunit.xml.dist export-ignore
 .eslintignore export-ignore
 .jshintrc export-ignore
 .tx export-ignore
-webpack.config.js export-ignore
 postcss.config.js export-ignore
-phpcs.xml export-ignore
-package-lock.json export-ignore
-composer.json export-ignore
-composer.lock export-ignore
 babel.config.js export-ignore
 .travis.yml export-ignore
 .editorconfig export-ignore
@@ -30,4 +24,3 @@ default.env export-ignore
 docker-compose.yml export-ignore
 docs/DOCKER.md export-ignore
 wordpress_org_assets export-ignore
-src export-ignore
